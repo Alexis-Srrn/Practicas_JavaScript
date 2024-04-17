@@ -1,2 +1,4 @@
 # carrito_js
-Carrito de compras con JavaScript
+Lista de prácticas con Java Script:
+
+-- Carrito de compras con JavaScript
