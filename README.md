@@ -1,7 +1,8 @@
-# carrito_js
+
 Lista de prácticas con Java Script:
 
--- Carrito de compras con JavaScript
+# carrito_js
   * Función de agregar, eliminar productos de un carrito y alterar el stock.
--- Máscara
+
+# máscara
   * Simular inputs con formato de tarjetas de crédito/débito.
